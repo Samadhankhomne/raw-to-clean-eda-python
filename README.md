@@ -1,2 +1,2 @@
 # raw-to-clean-eda-python
-An in-depth project showcasing the transformation of raw data into clean, structured formats using Python for Exploratory Data Analysis (EDA). This repository demonstrates techniques such as handling missing data, data normalization, feature scaling, and outlier detection. It includes practical examples
+An in-depth project showcasing the transformation of raw data into clean, structured formats using Python for Exploratory Data Analysis (EDA). This repository demonstrates techniques such as handling missing data, data normalization, feature scaling, and outlier detection. It includes practical examples using popular Python libraries like pandas, numpy, and matplotlib for data visualization and insights.
